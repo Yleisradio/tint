@@ -1,6 +1,6 @@
 release:
   github:
-    owner: lmittmann
+    owner: yleisradio
     name: tint
   draft: true
   footer: |
